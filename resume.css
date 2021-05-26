@@ -14,7 +14,7 @@
    width: 100%;
    font-family: system-ui,"Noto Sans", "Segoe UI", Roboto, Helvetica, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
    -webkit-font-smoothing: antialiased;
-   font-size: 1rem;
+   font-size: 1.15rem;
    margin: 0;
    color: #495057;
    background-color: #fff; }
@@ -44,7 +44,7 @@
    margin-left: auto;
    margin-right: auto;
    margin-bottom: 1rem;
-   max-width: 45rem;
+   max-width: 40rem;
    text-align: left; 
  }
  
